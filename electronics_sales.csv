@@ -1,0 +1,11 @@
+date,order_id,product_category,product_name,units_sold,unit_price,total_sales,payment_mode,city
+2025-01-01,ORD1001,Mobile,Smartphone A,5,15000,75000,UPI,Delhi
+2025-01-01,ORD1002,Laptop,Laptop X,2,55000,110000,Credit Card,Mumbai
+2025-01-02,ORD1003,Accessories,Wireless Mouse,10,800,8000,Cash,Pune
+2025-01-02,ORD1004,TV,LED TV 42 Inch,1,32000,32000,Debit Card,Jaipur
+2025-01-03,ORD1005,Mobile,Smartphone B,3,18000,54000,UPI,Indore
+2025-01-03,ORD1006,Accessories,Power Bank,7,1200,8400,UPI,Bhopal
+2025-01-04,ORD1007,Laptop,Laptop Y,1,65000,65000,Net Banking,Ahmedabad
+2025-01-04,ORD1008,TV,Smart TV 55 Inch,1,52000,52000,Credit Card,Surat
+2025-01-05,ORD1009,Mobile,Smartphone C,4,22000,88000,Debit Card,Nagpur
+2025-01-05,ORD1010,Accessories,Headphones,6,2500,15000,UPI,Gwalior
